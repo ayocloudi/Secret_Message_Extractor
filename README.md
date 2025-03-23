@@ -1,5 +1,3 @@
-# Secret_Message_Extractor
-
 # Secret Message Extractor  
 
 This Python script retrieves and deciphers a hidden message from a published Google Doc. It performs the following steps:  
