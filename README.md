@@ -8,3 +8,6 @@ This Python script retrieves and deciphers a hidden message from a published Goo
 4. **Sorts and Reads the Message** – Arranges characters in the correct order and prints out the hidden message.  
 
 To run the script, ensure you have `requests` and `BeautifulSoup` installed. Simply execute the script, and it will output the reconstructed message.  
+
+
+![image](https://github.com/user-attachments/assets/3caafbbd-601e-46fa-9a16-b87fa55dbc56)
